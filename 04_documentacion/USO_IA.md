@@ -17,7 +17,7 @@ lugar de inventar una justificación retroactiva.
   - Creación y estructuración manual de las 4 carpetas en el repositorio Github.
   - Registro y gestión del historial de 11 commits.
   - Inspección directa de los archivos originales (xlsx, docx, notas) y llenado de la bitácora de evaluación.
-• Cómo se verificó la salida de la IA:
+- **Cómo se verificó la salida de la IA:
   - Se recalculó de forma independiente el área de la probeta (17 671,46 mm² para D = 150 mm).
   - Se contrastó el resultado de tensión máxima (≈ 25,46 MPa) comprobando su coherencia física con el rango del hormigón estructural (20–40 MPa).
-• Decisión final: Se adoptó la estructura documental propuesta, ajustando de forma manual todos los datos técnicos, enlaces, referencias y decisiones de ingeniería antes de la entrega.
+- **Decisión final: Se adoptó la estructura documental propuesta, ajustando de forma manual todos los datos técnicos, enlaces, referencias y decisiones de ingeniería antes de la entrega.
